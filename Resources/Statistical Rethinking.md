@@ -1,4 +1,4 @@
-### McElreath — *Statistical Rethinking* (2nd ed., 2020) — [Ref 2]
+### McElreath — *Statistical Rethinking* (2nd ed., 2020) 
 
 **Type:** Book, Chapman & Hall/CRC · HMC/toy material in the MCMC chapter (Ch. 9 — *verify in your copy*)
 
