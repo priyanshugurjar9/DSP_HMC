@@ -1,1 +1,1 @@
-**Is the Last Layer Sufficient for Uncertainty Quantification?**
+*Is the Last Layer Sufficient for Uncertainty Quantification?*
