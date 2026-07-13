@@ -3,8 +3,6 @@
 **Type:** arXiv:2302.10975 · Also published in IEEE Access (2023)
 **Authors:** Felix Fiedler, Sergio Lucia (TU Dortmund)
 
-**Read this one carefully.** It is the closest published work to our architecture, and it explicitly benchmarks against "Bayesian linear regression with fixed features" — which is essentially what we are doing. We must be able to explain how our method differs and why our choice is defensible.
-
 **What we're looking for**
 The formal name and existing literature for our architecture — a deterministic feature extractor followed by a probabilistic output layer — and an honest understanding of how our method compares to the state of the art in that family.
 
