@@ -6,7 +6,7 @@
 ---
 
 **What we're looking for**
-The original definition of an echo state network — the exact model we built in Week 3 — and the reason the recurrent weights can be left untrained.
+The original definition of an echo state network — the exact model we are looking built — and the reason the recurrent weights can be left untrained.
 
 ---
 
