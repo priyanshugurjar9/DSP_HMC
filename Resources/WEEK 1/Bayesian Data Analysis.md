@@ -2,9 +2,6 @@
 
 **Type:** Book, Chapman & Hall/CRC 
 
-**What we're looking for**
-The standard, authoritative reference for the exact three models our toys use — estimating a proportion (coin), Bayesian linear regression, and Bayesian logistic regression — so each toy has a textbook citation behind it.
-
 **Plain-language summary**
 This is the classic graduate reference for Bayesian data analysis. It works through, in order, exactly the model types our toys implement:
 - **The binomial model** for estimating an unknown proportion from yes/no data — this is our coin-flip toy.
