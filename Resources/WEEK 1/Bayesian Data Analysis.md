@@ -1,6 +1,6 @@
 ### Gelman, Carlin, Stern, Dunson, Vehtari & Rubin — *Bayesian Data Analysis* (3rd ed., 2013)
 
-**Type:** Book, Chapman & Hall/CRC · Directly relevant chapters: single-parameter models incl. the binomial (coin), regression models (linear), and generalized linear models incl. logistic regression (*verify chapter/page in your copy*)
+**Type:** Book, Chapman & Hall/CRC 
 
 **What we're looking for**
 The standard, authoritative reference for the exact three models our toys use — estimating a proportion (coin), Bayesian linear regression, and Bayesian logistic regression — so each toy has a textbook citation behind it.
